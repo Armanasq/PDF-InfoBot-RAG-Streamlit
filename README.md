@@ -1,4 +1,5 @@
 # PDF-InfoBot
+![image](https://github.com/Armanasq/PDF-InfoBot-RAG-Streamlit/assets/60850934/4c5ad1f9-4740-40b7-b942-805f356dbe24)
 
 PDF-InfoBot is a Streamlit application leveraging Retrieval-Augmented Generation (RAG) to analyze and interact with PDF documents. It uses state-of-the-art models from Hugging Face tenable intelligent document querying and contextual responses.
 
